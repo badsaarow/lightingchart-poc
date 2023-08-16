@@ -1,0 +1,9 @@
+{
+  "name": "lightingchart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@arction/lcjs": "^3.4.0"
+  }
+}
